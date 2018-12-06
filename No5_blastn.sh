@@ -1,0 +1,1 @@
+blastn -query /lustre1/aptmp/lingjie/M1_exercise/No5_database/No5_test_gene_for_database.txt -db /lustre1/aptmp/lingjie/M1_exercise/No5_database/blast/ribosome_blast -num_descriptions 10 -out /lustre1/aptmp/lingjie/M1_exercise/No5_database/No5_test_blast_result.out
